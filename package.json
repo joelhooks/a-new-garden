@@ -1,0 +1,24 @@
+{
+  "name": "a-new-garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelhooks/a-new-garden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelhooks/a-new-garden/issues"
+  },
+  "homepage": "https://github.com/joelhooks/a-new-garden#readme",
+  "dependencies": {
+    "eleventy": "^1.0.6"
+  }
+}
